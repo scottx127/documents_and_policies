@@ -1,0 +1,131 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Quick Broadcast</title>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p>Effective date: 18 August 2026</p>
+
+<p>
+Quick Broadcast is developed by <strong>X127</strong>. We respect your privacy
+and are committed to handling personal information responsibly. This policy
+explains what information Quick Broadcast uses, why it is used, and the choices
+available to you.
+</p>
+
+<h2>1. What Quick Broadcast Does</h2>
+
+<p>
+Quick Broadcast helps parents, guardians, and family members send household
+messages and receive delivery and acknowledgement updates. Family groups are
+private and are not visible to the public.
+</p>
+
+<h2>2. Information We Collect and Use</h2>
+
+<p>Quick Broadcast may collect and store the following information to provide its service:</p>
+
+<ul>
+    <li>Display names and family-group membership</li>
+    <li>Parent recovery email addresses, where provided</li>
+    <li>Account and device identifiers needed for sign-in, pairing, and notifications</li>
+    <li>Notification tokens used to deliver broadcasts to paired devices</li>
+    <li>Broadcast messages, recipients, delivery status, and acknowledgements</li>
+    <li>Quick-broadcast choices, widget shortcuts, preferences, and colour-theme settings</li>
+</ul>
+
+<p>
+This information is used only to operate Quick Broadcast, including pairing
+devices, delivering messages, showing acknowledgement status, restoring family
+access, and improving reliability.
+</p>
+
+<h2>3. Children and Family Use</h2>
+
+<p>
+Quick Broadcast is designed for parents and guardians to coordinate with their
+household. It may be used by children, including children under 13, as part of
+a family group set up and managed by a parent or guardian.
+</p>
+
+<p>
+Children do not create public profiles or communicate with strangers through
+Quick Broadcast. A parent or guardian controls family membership and which
+devices are paired to a child profile.
+</p>
+
+<p>
+Quick Broadcast does not sell personal information, use targeted advertising,
+or knowingly use children’s information for advertising purposes.
+</p>
+
+<h2>4. Third-Party Services</h2>
+
+<p>
+Quick Broadcast uses trusted services provided by Google Firebase, including
+Firebase Authentication, Cloud Firestore, Cloud Functions, and Firebase Cloud
+Messaging. On Apple devices, notifications may also be delivered through Apple
+Push Notification service.
+</p>
+
+<p>
+These providers process information as necessary to provide their services and
+in accordance with their own privacy policies.
+</p>
+
+<h2>5. Purchases</h2>
+
+<p>
+If Premium subscriptions or purchases are offered, payments are processed by
+the Apple App Store or Google Play Store. Quick Broadcast does not collect or
+store your payment-card details.
+</p>
+
+<h2>6. Data Sharing</h2>
+
+<p>
+Information is shared only with members of your private family group where
+needed for the app to work, such as showing a broadcast message or its delivery
+and acknowledgement status. We do not sell personal information or share it
+with advertisers.
+</p>
+
+<h2>7. Data Security</h2>
+
+<p>
+We use reasonable technical measures and trusted cloud-service providers to
+protect information. However, no internet-based service can guarantee complete
+security.
+</p>
+
+<h2>8. Data Retention and Deletion</h2>
+
+<p>
+You can delete your Quick Broadcast account and associated data from the app’s
+Account Settings. Deleting a family-owner account removes the associated family
+data. You may also contact us for help with a deletion request.
+</p>
+
+<h2>9. Changes to This Policy</h2>
+
+<p>
+We may update this policy when Quick Broadcast changes or legal requirements
+change. The latest version will always be published at this page.
+</p>
+
+<h2>10. Contact Us</h2>
+
+<p>
+For privacy questions or deletion assistance, contact:
+</p>
+
+<p><strong>x127.scott@gmail.com</strong></p>
+
+</body>
+</html>
+```
